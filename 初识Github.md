@@ -5,8 +5,7 @@
 ### 1.仓库
 
 repository这个单词已经很难理解，在b站上看了很多讲解才了解到原来是仓库的意思，以下使用**图片+文字**的形式展示自己的学习成果。
-
-![image-20201002093136174](C:\Users\wjx\AppData\Roaming\Typora\typora-user-images\image-20201002093136174.png)
+![2020-10-02 _3_.png](https://i.loli.net/2020/10/02/JIPtfqGYXEVQhkL.png)
 
 这个仓库主页会管理并储存自己所有的文件，是Github中十分重要的一部分。但是现在由于自己对于此了解并不够深，所以对于仓库的重要性并没有直观感受。
 
