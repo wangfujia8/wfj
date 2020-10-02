@@ -13,7 +13,7 @@ repository这个单词已经很难理解，在b站上看了很多讲解才了解
 
 编辑文件后会出现对**test**和**项目描述**的修改，可添加其他元素及文本。
 
-![image-20201002131550318](C:\Users\wjx\AppData\Roaming\Typora\typora-user-images\image-20201002131550318.png)
+![360截图20201002223123616.jpg](https://i.loli.net/2020/10/02/ORQ1AZHVGyYf8mq.jpg)
 
 
 
