@@ -9,9 +9,9 @@ repository这个单词已经很难理解，在b站上看了很多讲解才了解
 
 这个仓库主页会管理并储存自己所有的文件，是Github中十分重要的一部分。但是现在由于自己对于此了解并不够深，所以对于仓库的重要性并没有直观感受。
 
-![image-20201002093830808](C:\Users\wjx\AppData\Roaming\Typora\typora-user-images\image-20201002093830808.png)
+![360截图20201002224313301.jpg](https://i.loli.net/2020/10/02/eSLMobOBnmk9iDP.jpg)
 
-编辑文件后会出现对**test**和**项目描述**的修改，可添加其他元素及文本。
+编辑文件后会出现对**wfj**和**学习成果展示**的修改，可添加其他元素及文本。
 
 ![360截图20201002223123616.jpg](https://i.loli.net/2020/10/02/ORQ1AZHVGyYf8mq.jpg)
 
